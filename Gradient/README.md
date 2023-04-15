@@ -1,5 +1,5 @@
 # GRADIENT GENERATOR EXTENSION
-#### Video Demo:  <URL HERE>
+#### Video Demo:  <URL https://www.veed.io/view/99f0d833-cb26-4184-bb93-f96e3f9ffec5?panel=share>
 #### Description
 Gradient Generator is, a Chrome/FireFox extenion that allows users to generate 
 custom gradients, then copy the code
@@ -18,5 +18,7 @@ Navigate to extensions
 Click on load Unpacked extenion
 
 Navigate to the project folder, and that's it
+
+
 
 
